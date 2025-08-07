@@ -19,6 +19,7 @@ email: gamerafei@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 github_username: gamerafei
+repository: gamerafei/gamerafei.github.io
 minimal_mistakes_skin: dirt
 search: true
 
