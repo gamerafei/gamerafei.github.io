@@ -31,6 +31,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Shanghai
 date_format: "%Y年%m月%d日"
+atom_feed:
+  hide: true
 
 include:
   - _pages
@@ -59,20 +61,7 @@ plugins:
 author:
   name   : "阿飞"
   avatar : "/assets/images/avatar.png"
-  bio    : ""
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gamerafei"
-    - label: "gamerafei@cloud.com"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:gamerafei@cloud.com"
-
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gamerafei"
+  bio    : "gamerafei@icloud.com"
 
 defaults:
   # _posts
